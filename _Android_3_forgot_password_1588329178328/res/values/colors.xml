@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 3_forgot_password colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___3_forgot_password_color">#f5f6f8</color>
+	<color name="rectangle_33_color">#ffffff</color>
+	<color name="janedoe123_email_com_color">#515c6f</color>
+	<color name="rectangle_4_color">#ff6969</color>
+	<color name="send_email_color">#ffffff</color>
+</resources>

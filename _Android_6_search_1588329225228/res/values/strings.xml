@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 6_search strings -->
+
+	<string name="app_name">6_Search</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="home_string">Home</string>
+	<string name="cart_string">Cart</string>
+	<string name="profile_string">Profile</string>
+	<string name="more_string">More</string>
+	<string name="search_string">Search</string>
+	<string name="_10_string">10</string>
+	<string name="_5_string">5</string>
+	<string name="page_title_string">Search</string>
+	<string name="search_something_string">Search Something</string>
+	<string name="title_string">RECOMMENDED</string>
+	<string name="button_string">REFRESH</string>
+	<string name="denim_jeans_string">Denim Jeans</string>
+	<string name="sports_accessories_string">Sports Accessories</string>
+	<string name="yoga_pants_string">Yoga Pants</string>
+	<string name="eye_shadow_string">Eye Shadow</string>
+	<string name="accessories_string">Accessories</string>
+	<string name="mini_skirt_string">Mini Skirt</string>
+	<string name="jacket_string">Jacket</string>
+	<string name="page_title_ek1_string">RECENTLY VIEWED</string>
+	<string name="page_title_ek2_string">CLEAR</string>
+	<string name="__11_00_string">$11.00</string>
+	<string name="red_cotton_scarf_string">Red Cotton Scarf</string>
+	<string name="__20_58_string">$20.58</string>
+	<string name="bottle_green_backpack_string">Bottle Green Backpack</string>
+	<string name="tap___hold_to_search_with_voice_string">Tap &amp; hold to search with voice</string>
+</resources>

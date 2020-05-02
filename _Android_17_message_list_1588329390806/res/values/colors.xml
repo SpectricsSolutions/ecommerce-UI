@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 17_message_list colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___17_message_list_color">#000000</color>
+	<color name="page_title_color">#515c6f</color>
+	<color name="rectangle_21_color">#727c8e</color>
+	<color name="ellipse_16_color">#efa5a5</color>
+	<color name="ac_color">#d68787</color>
+	<color name="ellipse_15_color">#fdc880</color>
+	<color name="fb_color">#dea95f</color>
+	<color name="ellipse_14_color">#bebeff</color>
+	<color name="lb_color">#9b9be2</color>
+	<color name="ellipse_13_color">#9de5ff</color>
+	<color name="bs_color">#81cae5</color>
+	<color name="ellipse_12_color">#b7e6e6</color>
+	<color name="ss_color">#85cbcb</color>
+	<color name="indicator_base_color">#ff6969</color>
+	<color name="_5_ek1_color">#ffffff</color>
+	<color name="bottom_nav_base_color">#ffffff</color>
+	<color name="home_color">#727c8e</color>
+</resources>

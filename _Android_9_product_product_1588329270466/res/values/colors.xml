@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 9_product_product colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___9_product_product_color">#f5f6f8</color>
+	<color name="background_color">#000000</color>
+	<color name="ellipse_7_color">#727c8e</color>
+	<color name="base_color">#ffffff</color>
+	<color name="share_this_ek1_color">#727c8e</color>
+	<color name="base_ek1_color">#ff6969</color>
+	<color name="add_to_cart_ek1_color">#ffffff</color>
+	<color name="product_color">#ff6969</color>
+	<color name="pink_color">#ed5199</color>
+	<color name="orange_color">#ff8c69</color>
+	<color name="blue_color">#67b5f7</color>
+	<color name="grey_color">#c9c9c9</color>
+	<color name="black_color">#3e3a3a</color>
+	<color name="page_title_color">#515c6f</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 14_success_1 strings -->
+
+	<string name="app_name">14_Success 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="checkout_string">Order Placed!</string>
+	<string name="your_order_was_placed_successfully__for_more_details__check_all_my_orders_page_under_profile_tab_string">Your order was placed successfully. For more details, check All My Orders page under Profile tab</string>
+	<string name="my_orders_string">MY ORDERS</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 1_sign_up colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___1_sign_up_color">#f5f6f8</color>
+	<color name="text_color">#ff6969</color>
+	<color name="rectangle_4_color">#ff6969</color>
+	<color name="sign_up_color">#ffffff</color>
+	<color name="rectangle_2_color">#ffffff</color>
+	<color name="janedoe123_email_com_color">#515c6f</color>
+	<color name="ellipse_18_color">#727c8e</color>
+</resources>

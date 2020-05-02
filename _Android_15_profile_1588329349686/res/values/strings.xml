@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 15_profile strings -->
+
+	<string name="app_name">15_Profile</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="page_title_string">Jane Doe</string>
+	<string name="janedoe123_email_com_string">janedoe123@email.com</string>
+	<string name="edit_profile_string">EDIT PROFILE</string>
+	<string name="all_my_orders_string">All My Orders</string>
+	<string name="pending_shipments_string">Pending Shipments</string>
+	<string name="pending_payments_string">Pending Payments</string>
+	<string name="finished_orders_string">Finished Orders</string>
+	<string name="invite_friends_string">Invite Friends</string>
+	<string name="customer_support_string">Customer Support</string>
+	<string name="rate_our_app_string">Rate Our App</string>
+	<string name="make_a_suggestion_string">Make a Suggestion</string>
+	<string name="home_string">Home</string>
+	<string name="cart_string">Cart</string>
+	<string name="profile_string">Profile</string>
+	<string name="more_string">More</string>
+	<string name="search_string">Search</string>
+	<string name="_3_string">3</string>
+	<string name="_10_string">10</string>
+	<string name="_5_string">5</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 9_product_product strings -->
+
+	<string name="app_name">9_Product Product</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="share_this_ek1_string">SHARE THIS</string>
+	<string name="add_to_cart_ek1_string">ADD TO CART</string>
+	<string name="product_string">Product</string>
+	<string name="details_string">Details</string>
+	<string name="reviews_string">Reviews</string>
+	<string name="page_title_string">SELECT COLOR</string>
+	<string name="_4_5_string">4.5</string>
+	<string name="_5_0_string">5.0</string>
+	<string name="_6_5_string">6.5</string>
+	<string name="_7_0_string">7.0</string>
+	<string name="_8_0_string">8.0</string>
+	<string name="page_title_ek1_string">SELECT SIZE (US)</string>
+	<string name="_7_ek1_string">7</string>
+	<string name="faux_sued_ankle_boots_string">Faux Sued Ankle Boots</string>
+	<string name="__49_99_string">$49.99</string>
+	<string name="_4_9_string">4.9</string>
+</resources>

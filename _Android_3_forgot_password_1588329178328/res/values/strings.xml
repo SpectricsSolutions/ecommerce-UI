@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 3_forgot_password strings -->
+
+	<string name="app_name">3_Forgot Password</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="janedoe123_email_com_string">janedoe123@email.com</string>
+	<string name="email_ek1_string">EMAIL</string>
+	<string name="send_email_string">SEND EMAIL</string>
+	<string name="page_title_string">Forgot Password</string>
+	<string name="page_title_ek1_string">Sign Up</string>
+	<string name="enter_the_email_address_you_used_to_create_your_account_and_we_will_email_you_a_link_to_reset_your_password_string">Enter the email address you used to create your account and we will email you a link to reset your password</string>
+</resources>

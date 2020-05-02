@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 18_conversation strings -->
+
+	<string name="app_name">18_Conversation</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="smiley_s_store_string">Smileys Store</string>
+	<string name="active_string">Active</string>
+	<string name="ss_string">SS</string>
+	<string name="red_cotton_scarf__2ft__dark_red_string">Red Cotton Scarf, 2ft, Dark Red</string>
+	<string name="order___1084028_string">Order: #1084028</string>
+	<string name="__11_00_string">$11.00</string>
+	<string name="dear_customer__your_order_has_been_shipped__please_see_below_for_the_tracking_number___uh2983948935b__your_parcel_should_arrive_between_10___20_days___if_you_have_any_questions__please_contact_us_and_we_will_get_back_to_you_at_our_earliest____thank_you_for_string">Dear customer, your order has been shipped.\
+Please see below for the tracking number.\
+\
+UH2983948935B\
+\
+Your parcel should arrive between 10 - 20 days.\
+\
+If you have any questions, please contact us and we will get back to you at our earliest. \
+\
+Thank you for choosing our shop!  \
+</string>
+	<string name="type_your_message____string">Type your message...</string>
+	<string name="tuesday__9_20_am_string">Tuesday, 9:20 AM</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 4_home strings -->
+
+	<string name="app_name">4_Home</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="home_string">Home</string>
+	<string name="cart_string">Cart</string>
+	<string name="profile_string">Profile</string>
+	<string name="more_string">More</string>
+	<string name="search_string">Search</string>
+	<string name="_10_string">10</string>
+	<string name="_5_string">5</string>
+	<string name="apparel_string">Apparel</string>
+	<string name="beauty_string">Beauty</string>
+	<string name="shoes_string">Shoes</string>
+	<string name="see_all_string">See All</string>
+	<string name="page_title_string">Categories</string>
+	<string name="see_more_string">SEE MORE</string>
+	<string name="for_all_your__summer_clothing__needs_string">For all your \
+summer clothing \
+needs</string>
+	<string name="page_title_ek1_string">Latest</string>
+	<string name="ankle_boots_ek1_string">Ankle Boots</string>
+	<string name="__49_99_string">$49.99</string>
+	<string name="backpack_ek1_string">Backpack</string>
+	<string name="__20_58_string">$20.58</string>
+	<string name="red_scarf_ek1_string">Red Scarf</string>
+	<string name="__11_00_string">$11.00</string>
+</resources>

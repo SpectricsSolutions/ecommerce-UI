@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 14_success_1 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___14_success_1_color">#f5f6f8</color>
+	<color name="checkout_color">#515c6f</color>
+	<color name="base_color">#ff6969</color>
+	<color name="my_orders_color">#ffffff</color>
+	<color name="rectangle_2_color">#ffffff</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 6_search colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___6_search_color">#f5f6f8</color>
+	<color name="background_color">#000000</color>
+	<color name="bottom_nav_base_color">#ffffff</color>
+	<color name="home_color">#727c8e</color>
+	<color name="search_color">#ff6969</color>
+	<color name="indicator_base_color">#ff6969</color>
+	<color name="_10_color">#ffffff</color>
+	<color name="page_title_color">#515c6f</color>
+	<color name="rectangle_21_color">#727c8e</color>
+</resources>

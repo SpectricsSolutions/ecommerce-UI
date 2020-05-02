@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 8_refine_results colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___8_refine_results_color">#f5f6f8</color>
+	<color name="rectangle_21_color">#727c8e</color>
+	<color name="shirts_color">#515c6f</color>
+	<color name="overlay_color">#ffffff</color>
+	<color name="clear_color">#ff6969</color>
+	<color name="ellipse_22_color">#77cbff</color>
+	<color name="ellipse_23_color">#ff77e5</color>
+	<color name="ellipse_24_color">#c5dc1b</color>
+	<color name="rectangle_4_color">#ff6969</color>
+	<color name="apply_filters_color">#ffffff</color>
+</resources>

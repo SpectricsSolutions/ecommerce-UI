@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 12_cart strings -->
+
+	<string name="app_name">12_Cart</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="home_string">Home</string>
+	<string name="cart_string">Cart</string>
+	<string name="profile_string">Profile</string>
+	<string name="more_string">More</string>
+	<string name="search_string">Search</string>
+	<string name="_3_string">3</string>
+	<string name="page_title_string">Cart</string>
+	<string name="checkout_string">CHECKOUT</string>
+	<string name="total_string">TOTAL</string>
+	<string name="free_domestic_shipping_string">Free Domestic Shipping</string>
+	<string name="__81_57_string">$81.57</string>
+	<string name="_7__hot_pink_string">7, Hot Pink</string>
+	<string name="faux_sued_ankle_boots_string">Faux Sued Ankle Boots</string>
+	<string name="__49_99_string">$49.99</string>
+	<string name="_1_ek1_string">1</string>
+	<string name="medium__green_string">Medium, Green</string>
+	<string name="bottle_green_backpack_string">Bottle Green Backpack</string>
+	<string name="__20_58_string">$20.58</string>
+	<string name="_1_ek2_string">1</string>
+	<string name="_2ft__dark_red_string">2ft, Dark Red</string>
+	<string name="red_cotton_scarf_string">Red Cotton Scarf</string>
+	<string name="__11_00_string">$11.00</string>
+	<string name="_1_ek3_string">1</string>
+	<string name="_10_string">10</string>
+	<string name="_5_string">5</string>
+</resources>

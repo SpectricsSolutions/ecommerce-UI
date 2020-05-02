@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 22_notifications strings -->
+
+	<string name="app_name">22_Notifications</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="page_title_string">Notifications</string>
+	<string name="smiley_s_store_marked_your_order__1982984_as_shipped__string">Smileys Store marked your order #1982984 as shipped.</string>
+	<string name="_9_20_am_string">9:20 AM</string>
+	<string name="package_from_your_order__1982345_has_arrived_to_destination_country__string">Package from your order #1982345 has arrived to destination country.</string>
+	<string name="yesterday_string">Yesterday</string>
+	<string name="bogo_sale_starting_tomorrow__don_t_forget_to_check_it_out_for_great_deals__string">BOGO Sale starting tomorrow. Dont forget to check it out for great deals!</string>
+	<string name="_20_sep_string">20 Sep</string>
+	<string name="_50__off_of_everything_at_elegance_store___string">50% OFF of everything at Elegance Store!!</string>
+	<string name="_15_oct_string">15 Oct</string>
+	<string name="home_string">Home</string>
+	<string name="cart_string">Cart</string>
+	<string name="profile_string">Profile</string>
+	<string name="more_string">More</string>
+	<string name="search_string">Search</string>
+	<string name="_3_string">3</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 11_product_reviews colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___11_product_reviews_color">#f5f6f8</color>
+	<color name="background_color">#000000</color>
+	<color name="ellipse_7_color">#727c8e</color>
+	<color name="rectangle_25_color">#ffffff</color>
+	<color name="product_color">#727c8e</color>
+	<color name="reviews_color">#ff6969</color>
+	<color name="lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_color">#515c6f</color>
+	<color name="ellipse_12_color">#b7e6e6</color>
+	<color name="jd_color">#85cbcb</color>
+	<color name="ellipse_12_ek1_color">#c4e6b7</color>
+	<color name="base_ek1_color">#ff6969</color>
+	<color name="add_to_cart_ek1_color">#ffffff</color>
+</resources>

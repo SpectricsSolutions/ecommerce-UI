@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ellipse_11_ek5 from your PSD file. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+	android:shape="oval" >
+	<solid android:color="@color/ellipse_11_color" />
+</shape>
+

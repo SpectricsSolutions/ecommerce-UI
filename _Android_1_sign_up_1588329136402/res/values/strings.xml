@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 1_sign_up strings -->
+
+	<string name="app_name">1_Sign Up</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="text_string">By creating an account, you agree to our Terms of Service and Privacy Policy</string>
+	<string name="sign_up_string">SIGN UP</string>
+	<string name="janedoe123_email_com_string">janedoe123@email.com</string>
+	<string name="email_ek1_string">EMAIL</string>
+	<string name="janedoe12345_string">janedoe12345</string>
+	<string name="username_ek1_string">USERNAME</string>
+	<string name="__________________________string">************************</string>
+	<string name="password_ek1_string">PASSWORD</string>
+	<string name="page_title_string">Sign Up</string>
+	<string name="page_title_ek1_string">Log In</string>
+	<string name="page_title_ek2_string">Forgot Password</string>
+</resources>

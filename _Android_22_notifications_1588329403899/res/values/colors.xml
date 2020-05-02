@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 22_notifications colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___22_notifications_color">#000000</color>
+	<color name="page_title_color">#515c6f</color>
+	<color name="ellipse_12_color">#8b9dff</color>
+	<color name="indicator_base_color">#ff6969</color>
+	<color name="ellipse_12_ek1_color">#4ad1c7</color>
+	<color name="ellipse_12_ek2_color">#add172</color>
+	<color name="ellipse_12_ek3_color">#ffaf52</color>
+	<color name="bottom_nav_base_color">#ffffff</color>
+	<color name="home_color">#727c8e</color>
+	<color name="_3_color">#ffffff</color>
+</resources>

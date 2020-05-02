@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 15_profile colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___15_profile_color">#f5f6f8</color>
+	<color name="page_title_color">#515c6f</color>
+	<color name="rectangle_1_color">#ffffff</color>
+	<color name="edit_profile_color">#727c8e</color>
+	<color name="ellipse_11_color">#727c8e</color>
+	<color name="profile_color">#ff6969</color>
+	<color name="indicator_base_color">#ff6969</color>
+	<color name="_3_color">#ffffff</color>
+</resources>

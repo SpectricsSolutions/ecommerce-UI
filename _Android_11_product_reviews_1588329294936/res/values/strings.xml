@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 11_product_reviews strings -->
+
+	<string name="app_name">11_Product Reviews</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="product_string">Product</string>
+	<string name="details_string">Details</string>
+	<string name="reviews_string">Reviews</string>
+	<string name="lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_string">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</string>
+	<string name="jane_doe_string">Jane Doe</string>
+	<string name="_10_oct__2018_string">10 Oct, 2018</string>
+	<string name="jd_string">JD</string>
+	<string name="lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_ek1_string">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</string>
+	<string name="sam_smith_string">Sam Smith</string>
+	<string name="_7_sep__2018_string">7 Sep, 2018</string>
+	<string name="ss_string">SS</string>
+	<string name="share_this_ek1_string">SHARE THIS</string>
+	<string name="add_to_cart_ek1_string">ADD TO CART</string>
+	<string name="_7_string">7</string>
+	<string name="faux_sued_ankle_boots_string">Faux Sued Ankle Boots</string>
+	<string name="__49_99_string">$49.99</string>
+	<string name="_4_9_string">4.9</string>
+</resources>

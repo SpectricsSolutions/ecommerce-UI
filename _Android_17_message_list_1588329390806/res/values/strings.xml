@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 17_message_list strings -->
+
+	<string name="app_name">17_Message List</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="page_title_string">Messages</string>
+	<string name="search_coversations_string">Search Coversations</string>
+	<string name="esse_cillum_dolore_eu_fugiat_nulla_pariatur__string">Esse cillum dolore eu fugiat nulla pariatur</string>
+	<string name="anna_s_corner_string">Annas Corner</string>
+	<string name="_11_aug_string">11 Aug</string>
+	<string name="ac_string">AC</string>
+	<string name="duis_aute_irure_dolor_in_reprehenderit_in_voluptate_velit__string">Duis aute irure dolor in reprehenderit in voluptate velit </string>
+	<string name="fshn_boutique_string">FSHN Boutique</string>
+	<string name="_15_sep_string">15 Sep</string>
+	<string name="fb_string">FB</string>
+	<string name="laboris_nisi_ut_aliquip_ex_ea_commodo_consequat__string">Laboris nisi ut aliquip ex ea commodo consequat.</string>
+	<string name="lovelee_bees_string">LoveLee Bees</string>
+	<string name="yesterday_string">Yesterday</string>
+	<string name="lb_string">LB</string>
+	<string name="ut_enim_ad_minim_veniam__quis_nostrud_exercitation_ullamco___string">Ut enim ad minim veniam, quis nostrud exercitation ullamco </string>
+	<string name="beauty_supplies_store_string">Beauty Supplies Store</string>
+	<string name="_8_12_am_string">8:12 AM</string>
+	<string name="bs_string">BS</string>
+	<string name="lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__sed_do_eiusmod_tempor_incididunt_string">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</string>
+	<string name="smiley_s_store_string">Smileys Store</string>
+	<string name="_9_20_am_string">9:20 AM</string>
+	<string name="ss_string">SS</string>
+	<string name="_5_ek1_string">5</string>
+	<string name="home_string">Home</string>
+	<string name="cart_string">Cart</string>
+	<string name="profile_string">Profile</string>
+	<string name="more_string">More</string>
+	<string name="search_ek2_string">Search</string>
+	<string name="_3_ek1_string">3</string>
+</resources>

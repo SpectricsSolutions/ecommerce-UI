@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 8_refine_results strings -->
+
+	<string name="app_name">8_Refine Results</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="shirts_string">Shirts</string>
+	<string name="title_string">REFINE RESULTS</string>
+	<string name="clear_string">CLEAR</string>
+	<string name="view_ek1_string">View</string>
+	<string name="thumbnails_string">Thumbnails</string>
+	<string name="category_ek1_string">Category</string>
+	<string name="men_s_apparel_string">Mens Apparel</string>
+	<string name="condition_ek1_string">Condition</string>
+	<string name="brand_new_string">Brand New</string>
+	<string name="material_ek1_string">Material</string>
+	<string name="cotton_string">Cotton</string>
+	<string name="colour_string">Colour</string>
+	<string name="any_string">Any</string>
+	<string name="brand_ek1_string">Brand</string>
+	<string name="all_brands_string">All Brands</string>
+	<string name="size_ek1_string">Size</string>
+	<string name="large_string">Large</string>
+	<string name="price_range_string">Price Range</string>
+	<string name="__0____30_string">$0 - $30</string>
+	<string name="apply_filters_string">APPLY FILTERS</string>
+</resources>

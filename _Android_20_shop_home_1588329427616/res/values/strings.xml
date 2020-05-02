@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 20_shop_home strings -->
+
+	<string name="app_name">20_Shop Home</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="products_string">Products</string>
+	<string name="home_string">Home</string>
+	<string name="reviews_string">Reviews</string>
+	<string name="elegance_string">ELEGANCE</string>
+	<string name="all_your_fashion_needs_under_one_roof_string">All your fashion needs under one roof</string>
+	<string name="collection_string">COLLECTION</string>
+	<string name="look_soft_like__a_pastel_this_winter___shop_our_colleciton_string">Look soft like \
+a Pastel this Winter. \
+Shop our colleciton</string>
+	<string name="page_title_string">Trending</string>
+	<string name="floral_dress_string">Floral Dress</string>
+	<string name="__49_99_string">$49.99</string>
+	<string name="floral_dress_ek1_string">Floral Dress</string>
+	<string name="__49_99_ek1_string">$49.99</string>
+	<string name="pattern_dress_string">Pattern Dress</string>
+	<string name="__20_58_string">$20.58</string>
+	<string name="pattern_dress_ek1_string">Pattern Dress</string>
+	<string name="__20_58_ek1_string">$20.58</string>
+	<string name="cotton_dress_string">Cotton Dress</string>
+	<string name="__11_00_string">$11.00</string>
+	<string name="cotton_dress_ek1_string">Cotton Dress</string>
+	<string name="__11_00_ek1_string">$11.00</string>
+</resources>

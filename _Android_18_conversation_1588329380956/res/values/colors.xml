@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 18_conversation colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg___18_conversation_color">#f5f6f8</color>
+	<color name="base_color">#ffffff</color>
+	<color name="smiley_s_store_color">#515c6f</color>
+	<color name="ellipse_12_color">#b7e6e6</color>
+	<color name="ss_color">#69bcbc</color>
+	<color name="__11_00_color">#ff6969</color>
+	<color name="ellipse_11_color">#727c8e</color>
+	<color name="dear_customer__your_order_has_been_shipped__please_see_below_for_the_tracking_number___uh2983948935b__your_parcel_should_arrive_between_10___20_days___if_you_have_any_questions__please_contact_us_and_we_will_get_back_to_you_at_our_earliest____thank_you_for_color">#727c8e</color>
+	<color name="rectangle_2_color">#ff6969</color>
+</resources>
